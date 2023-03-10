@@ -210,14 +210,14 @@ img {
 
 .header-container-item {
   display: flex;
-  align-items: baseline;
+  align-items: center;
 }
 .header-item {
   border-bottom: 1px solid #e7e9fc;
 }
 .header-nav {
   display: flex;
-  align-items: baseline;
+  align-items: center;
 }
 
 /* Hero Image */
